@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 
 **Here are some ideas to get you started:**
@@ -10,3 +8,17 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+# MediBrick
+
+MediBrick develops open-source biomedical sensor hardware and software,
+with a focus on modular sensor boards, firmware, and data acquisition
+tools.
+
+## Repositories
+- 📟 **BiomedicalSensorBoard** – Reference hardware designs
+- 🔌 **Firmware** – MCU firmware and drivers
+- 🧪 **Tools** – Testing and calibration utilities
+
+## Contributing
+We welcome contributions! See CONTRIBUTING.md in each repository.
