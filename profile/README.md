@@ -16,9 +16,12 @@ with a focus on modular sensor boards, firmware, and data acquisition
 tools.
 
 ## Repositories
-- 📟 **Brick** – Reference hardware designs and manufacturing instructions
-- 🔌 **Firmware** – 
-- 🧪 **Tools** – 
+- 📟 **Bricks** – Reference hardware designs and manufacturing instructions for MediBricks
+- 🔌 **Firmware** – Arduino libraries created for MediBricks
+- 🧰 **Tools** – Software to communicate and display MediBrick data
+- 📋 **Test** – Software to test individual components on a MediBrick
 
 ## Contributing
 We welcome contributions!
+
+Use [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) to create and change documentation.
