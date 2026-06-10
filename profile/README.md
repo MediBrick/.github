@@ -31,7 +31,8 @@ Original Software created for MediBrick.
 
 ### 📈 **Data Display and Recording** 
 Main program to interact with MediBricks:
-- [SerialUI ↗Git 📂](https://github.com/uutzinger/SerialUI) Terminal program to connect to MediBrick devices via USB and Bluetooth
+- <img src="SerialUI.png" width="20">
+ [SerialUI ↗Git 📂](https://github.com/uutzinger/SerialUI) Terminal program to connect to MediBrick devices via USB and Bluetooth
 
 ### 🔌 **Firmware** 
 Firmware created for MediBricks:
