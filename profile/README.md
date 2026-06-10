@@ -17,14 +17,15 @@ tools.
 
 ## MediBrick Overview
 
-Project Overview and Definition: [Git](https://github.com/MediBrick/MediBrick)
-Education Content: 📖, 
-Sources used to determine a solution: ✔, 
-Solution: 📂, 
-Assembly Instructions: 🛠, 
-Software: 📈
+-Project Overview and Definition: [Git](https://github.com/MediBrick/MediBrick)
+-Education Content: 📖, 
+-Sources used to determine a solution: ✔, 
+-Solution: 📂, 
+-Assembly Instructions: 🛠, 
+-Software: 📈
 
-## 📟 **Bricks** – Reference hardware designs and manufacturing instructions for MediBricks
+## 📟 **Bricks** 
+Reference hardware designs and manufacturing instructions for MediBricks
 - ECG & Impedance: [↳Git](https://github.com/MediBrick/ECG_BIOZ_Brick)
 - Pulse Oximeter: [↳Git](https://github.com/MediBrick/SPO2_Brick)
 - Electronic Stehthoscope and Blood Pressuce: [↳Git](https://github.com/MediBrick/Stethoscope_BP_Brick)
