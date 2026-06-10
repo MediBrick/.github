@@ -55,6 +55,7 @@ Please use [Markdown](https://docs.github.com/github/writing-on-github/getting-s
 
 ## Contributors
 <img src="Urs.png" alt="Pencil sketch portrait" width="50">
+
 [Urs Utzinger](https://bme.engineering.arizona.edu/faculty-staff/faculty/urs-utzinger) 2026
 
 Senior Capstone Teams:
