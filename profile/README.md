@@ -61,4 +61,4 @@ Please use [Markdown](https://docs.github.com/github/writing-on-github/getting-s
 Senior Capstone Teams:
 - 2022/23: [23094](https://icap.engineering.arizona.edu/node/477)
 - 2023/24: [24052](https://icap.engineering.arizona.edu/node/559)
-- 2024/25: [26048](https://icap.engineering.arizona.edu/node/1387)
+- 2025/26: [26048](https://icap.engineering.arizona.edu/node/1387)
