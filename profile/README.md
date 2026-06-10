@@ -15,13 +15,49 @@ MediBrick develops open-source biomedical sensor hardware and software,
 with a focus on modular sensor boards, firmware, and data acquisition
 tools.
 
-## Repositories
-- 📟 **Bricks** – Reference hardware designs and manufacturing instructions for MediBricks
-- 🔌 **Firmware** – Arduino libraries created for MediBricks
-- 🧰 **Tools** – Software to communicate and display MediBrick data
-- 📋 **Test** – Software to test individual components on a MediBrick
+## MediBrick Overview
+
+Project Overview and Definition: [Git](https://github.com/MediBrick/MediBrick)
+Education Content: 📖, 
+Sources used to determine a solution: ✔, 
+Solution: 📂, 
+Assembly Instructions: 🛠, 
+Software: 📈
+
+## 📟 **Bricks** – Reference hardware designs and manufacturing instructions for MediBricks
+- ECG & Impedance: [↳Git](https://github.com/MediBrick/ECG_BIOZ_Brick)
+- Pulse Oximeter: [↳Git](https://github.com/MediBrick/SPO2_Brick)
+- Electronic Stehthoscope and Blood Pressuce: [↳Git](https://github.com/MediBrick/Stethoscope_BP_Brick)
+- Temperature: [↳Git](https://github.com/MediBrick/Thermistor_Brick)
+- Activity: [↳Git](https://github.com/MediBrick/IMU_Brick)
+- Airquality: [↳Git](https://github.com/MediBrick/Airquality_Brick)
+- Spirometer: [↳Git](https://github.com/MediBrick/Airflow_Brick)
+- DC Power Controller: [↳Git](https://github.com/MediBrick/DC_Power_Brick)
+- Heater-Cooler Controller: [↳Git](https://github.com/MediBrick/HeaterCooler_Brick)
+- BLDC Controller (future): [✗Git]()
+- Mouse Monitor (future): [↳Git](https://github.com/MediBrick/Mouse_Brick)
+
+## Software 
+Original Software created for MediBrick.
+
+### 🔌 **Data Display and Recording** 
+Main program to interact with MediBricks
+- [SerialUI](https://github.com/uutzinger/SerialUI) Terminal program to connect to MediBrick devices via USB and Bluetooth
+
+### 🔌 **Firmware** 
+Arduino libraries created for MediBricks
+  - [↗AFE44XX](https://github.com/uutzinger/Arduino_AFE44XX) SPO2 Brick
+  - [↗MAX3001G](https://github.com/uutzinger/Arduino_MAX30001G), ECG&BIOZ Brick
+  - [↗DRV8704](https://github.com/uutzinger/Arduino_DRV8704), DC controller
+
+### 🧰 **Tools**
+General Arduino libraries
+- [↗BLE Serial](https://github.com/uutzinger/Arduino_BLESerial), Serial communicaiton using Nordic UART for ESP
+- [↗RingBuffer](https://github.com/uutzinger/Arduino_RingBuffer), Ringbuffer for microcontrollers
+- [↗SG Filter](https://github.com/uutzinger/SavitzkyGolayFilter), Savitzky Golay Signal Filter
+
+### 📋 **Test** 
+Software to test individual components on a MediBrick
 
 ## Contributing
-We welcome contributions!
-
-Use [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) to create and change documentation.
+We welcome contributions! We use [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) to create and change documentation.
