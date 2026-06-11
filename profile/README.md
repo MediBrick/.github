@@ -16,7 +16,7 @@ Links to affiliated repositories: ↗Git 📂
 Reference hardware designs and manufacturing instructions for MediBricks
 - ECG & Impedance: [↳Git 📂](https://github.com/MediBrick/ECG_BIOZ_Brick) MAX30001G
 - Pulse Oximeter: [↳Git 📂](https://github.com/MediBrick/SPO2_Brick) AFE4400
-- Electronic Stehthoscope and Blood Pressuce: [↳Git](https://github.com/MediBrick/Stethoscope_BP_Brick) ES8388, MPRLS0300YG
+- Electronic Stehthoscope and Blood Pressuce: [↳Git 📂](https://github.com/MediBrick/Stethoscope_BP_Brick) ES8388, MPRLS0300YG
 - Temperature: [↳Git 📂](https://github.com/MediBrick/Thermistor_Brick), 10k Thermistors
 - Activity: [↳Git 📂](https://github.com/MediBrick/IMU_Brick), ICM20948, BMP581
 - Airquality: [↳Git 📂](https://github.com/MediBrick/Airquality_Brick), SEN50, SCD40, SHT45, BMP581, SGP41, MiCS-6814 
