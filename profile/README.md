@@ -6,13 +6,12 @@ Medi Brick
 
 MediBrick develops open-source biomedical sensor hardware and software, with a focus on modular sensor boards, firmware, and data acquisition tools. This project also provides education content.
 
-Please read the [Project Overview ↳Git 📂](https://github.com/MediBrick/MediBrick). It describes all activities related to MediBrick.
-
 Links to repositories in the project: ↳Git 📂
-
 Links to affiliated repositories: ↗Git 📂
 
-## 📟 **Bricks** 
+**MediBrick** [**Project Overview** ↳Git 📂](https://github.com/MediBrick/MediBrick). 
+
+## 📟 **Individual Bricks** 
 Reference hardware designs and manufacturing instructions for MediBricks
 - ECG & Impedance: [↳Git 📂](https://github.com/MediBrick/ECG_BIOZ_Brick) MAX30001G
 - Pulse Oximeter: [↳Git 📂](https://github.com/MediBrick/SPO2_Brick) AFE4400
