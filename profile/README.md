@@ -21,7 +21,7 @@ Reference hardware designs and manufacturing instructions for MediBricks
 - Pulse Oximeter: [↳Git 📂](https://github.com/MediBrick/SPO2_Brick) AFE4400
 - Stethhoscope & Blood Pressuce: [↳Git 📂](https://github.com/MediBrick/Stethoscope_BP_Brick) ES8388, MPRLS0300YG
 - Temperature: [↳Git 📂](https://github.com/MediBrick/Thermistor_Brick), 10k Thermistors
-- Activity: [↳Git 📂](https://github.com/MediBrick/IMU_Brick), ICM20948, BMP581
+- Activity: [↳Git 📂](https://github.com/MediBrick/IMU_Brick),v1: ICM20948, BMP581, v2: BMI323, BMM350, BMP581, optional GNSS MAX-M10S or ZED-F9P GNSS/RTK
 - Airquality: [↳Git 📂](https://github.com/MediBrick/Airquality_Brick), SEN50, SCD40, SHT45, BMP581, SGP41, MiCS-6814 
 - Spirometer: [↳Git 📂](https://github.com/MediBrick/Airflow_Brick), SFM3300
 - DC Power Controller: [↳Git 📂](https://github.com/MediBrick/DC_Power_Brick), DRV8704, CSD18540Q5B
