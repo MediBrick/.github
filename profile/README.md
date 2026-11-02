@@ -7,7 +7,6 @@ Medi Brick
 MediBrick develops open-source biomedical sensor hardware and software, with a focus on modular sensor boards, firmware, and data acquisition tools. This project also provides education content.
 
 ↳Git 📂: Links to repositories in the project
-
 ↗Git 📂: Links to affiliated repositories
 
 **MediBrick** [**Project Overview** 
