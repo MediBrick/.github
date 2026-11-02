@@ -6,10 +6,13 @@ Medi Brick
 
 MediBrick develops open-source biomedical sensor hardware and software, with a focus on modular sensor boards, firmware, and data acquisition tools. This project also provides education content.
 
-Links to repositories in the project: ↳Git 📂
-Links to affiliated repositories: ↗Git 📂
+↳Git 📂: Links to repositories in the project
 
-**MediBrick** [**Project Overview** ↳Git 📂](https://github.com/MediBrick/MediBrick). 
+↗Git 📂: Links to affiliated repositories
+
+**MediBrick** [**Project Overview** 
+↳Git 📂](https://github.com/MediBrick/MediBrick)
+Includes repository for enclosures and educational materials.
 
 ## 📟 **Individual Bricks** 
 Reference hardware designs and manufacturing instructions for MediBricks
@@ -27,19 +30,19 @@ Reference hardware designs and manufacturing instructions for MediBricks
 
 ## </> Software 
 
-The firmware and test programs are located in [↳Git 📂](https://github.com/MediBrick/Software)
+The 🔌 firmware and test programs are located in [↳Git 📂](https://github.com/MediBrick/Software)
 
 ### 📈 **Data Display and Recording** 
 Main program to interact with MediBricks:
 - [<img src="SerialUI.png" width="20"> SerialUI ↗Git 📂](https://github.com/uutzinger/SerialUI) Terminal program to connect to MediBrick devices via USB and Bluetooth
 
-### 🔌 **Libraries** 
+### 🧰 **Libraries** 
 Libraries created for MediBricks:
   - [↗Git 📂 AFE44XX](https://github.com/uutzinger/Arduino_AFE44XX) SPO2 Brick
   - [↗Git 📂 MAX3001G](https://github.com/uutzinger/Arduino_MAX30001G), ECG & BIOZ Brick
   - [↗Git 📂 DRV8704](https://github.com/uutzinger/Arduino_DRV8704), DC Controller
 
-### 🧰 **Tools**
+### 🛠️ **Tools**
 General libraries:
 - [↗Git 📂 BLE Serial](https://github.com/uutzinger/Arduino_BLESerial), Serial communicaiton using Nordic UART for ESP
 - [↗Git 📂 RingBuffer](https://github.com/uutzinger/Arduino_RingBuffer), Ringbuffer for microcontrollers
@@ -48,7 +51,7 @@ General libraries:
 ### 📋 **Test** 
 Software to test individual components on a MediBrick
 
-## Contributing
+## 🤲 Contributing
 We welcome contributions! 
 
 Please use [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) to create and change documentation.
