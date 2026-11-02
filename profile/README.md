@@ -11,6 +11,7 @@ MediBrick develops open-source biomedical sensor hardware and software, with a f
 ↗Git 📂: Links to affiliated repositories
 
 **MediBrick** [**Project Overview** 
+
 ↳Git 📂](https://github.com/MediBrick/MediBrick)
 Includes repository for enclosures and educational materials.
 
