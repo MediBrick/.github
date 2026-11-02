@@ -13,7 +13,7 @@ MediBrick develops open-source biomedical sensor hardware and software, with a f
 **MediBrick** [**Project Overview** 
 
 ↳Git 📂](https://github.com/MediBrick/MediBrick)
-Includes repository for enclosures and educational materials.
+Includes repository for enclosures and educational materials as well as overall project overview.
 
 ## 📟 **Individual Bricks** 
 Reference hardware designs and manufacturing instructions for MediBricks
@@ -31,23 +31,11 @@ Reference hardware designs and manufacturing instructions for MediBricks
 
 ## </> Software 
 
-The 🔌 firmware and test programs are located in [↳Git 📂](https://github.com/MediBrick/Software)
+The 🔌 firmware and test programs are located in the software repo on [↳Git 📂](https://github.com/MediBrick/Software)
 
 ### 📈 **Data Display and Recording** 
 Main program to interact with MediBricks:
 - [<img src="SerialUI.png" width="20"> SerialUI ↗Git 📂](https://github.com/uutzinger/SerialUI) Terminal program to connect to MediBrick devices via USB and Bluetooth
-
-### 🧰 **Libraries** 
-Libraries created for MediBricks:
-  - [↗Git 📂 AFE44XX](https://github.com/uutzinger/Arduino_AFE44XX) SPO2 Brick
-  - [↗Git 📂 MAX3001G](https://github.com/uutzinger/Arduino_MAX30001G), ECG & BIOZ Brick
-  - [↗Git 📂 DRV8704](https://github.com/uutzinger/Arduino_DRV8704), DC Controller
-
-### 🛠️ **Tools**
-General libraries:
-- [↗Git 📂 BLE Serial](https://github.com/uutzinger/Arduino_BLESerial), Serial communicaiton using Nordic UART for ESP
-- [↗Git 📂 RingBuffer](https://github.com/uutzinger/Arduino_RingBuffer), Ringbuffer for microcontrollers
-- [↗Git 📂 SG Filter](https://github.com/uutzinger/SavitzkyGolayFilter), Savitzky Golay Signal Filter
 
 ### 📋 **Test** 
 Software to test individual components on a MediBrick
@@ -66,3 +54,19 @@ Senior Capstone Teams:
 - 2022/23: [23094](https://icap.engineering.arizona.edu/node/477)
 - 2023/24: [24052](https://icap.engineering.arizona.edu/node/559)
 - 2025/26: [26048](https://icap.engineering.arizona.edu/node/1387)
+
+## Spinnoffs of MediBrick
+
+### 🧰 **Libraries** 
+Libraries created for MediBricks:
+  - [↗Git 📂 AFE44XX](https://github.com/uutzinger/Arduino_AFE44XX) SPO2 Brick
+  - [↗Git 📂 MAX3001G](https://github.com/uutzinger/Arduino_MAX30001G), ECG & BIOZ Brick
+  - [↗Git 📂 DRV8704](https://github.com/uutzinger/Arduino_DRV8704), DC Controller
+
+### 🛠️ **Tools**
+General libraries:
+- [↗Git 📂 BLE Serial](https://github.com/uutzinger/Arduino_BLESerial), Serial communicaiton using Nordic UART for ESP
+- [↗Git 📂 RingBuffer](https://github.com/uutzinger/Arduino_RingBuffer), Ringbuffer for microcontrollers
+- [↗Git 📂 SG Filter](https://github.com/uutzinger/SavitzkyGolayFilter), Savitzky Golay Signal Filter
+
+These libraries were thoroughly tested and provide access to a rich feature set.
