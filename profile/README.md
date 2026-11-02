@@ -26,14 +26,15 @@ Reference hardware designs and manufacturing instructions for MediBricks
 - Mouse Monitor (future): [↳Git 📂](https://github.com/MediBrick/Mouse_Brick)
 
 ## </> Software 
-Original Software created for MediBrick.
+
+The firmware and test programs are located in [↳Git 📂](https://github.com/MediBrick/Software)
 
 ### 📈 **Data Display and Recording** 
 Main program to interact with MediBricks:
 - [<img src="SerialUI.png" width="20"> SerialUI ↗Git 📂](https://github.com/uutzinger/SerialUI) Terminal program to connect to MediBrick devices via USB and Bluetooth
 
-### 🔌 **Firmware** 
-Firmware created for MediBricks:
+### 🔌 **Libraries** 
+Libraries created for MediBricks:
   - [↗Git 📂 AFE44XX](https://github.com/uutzinger/Arduino_AFE44XX) SPO2 Brick
   - [↗Git 📂 MAX3001G](https://github.com/uutzinger/Arduino_MAX30001G), ECG & BIOZ Brick
   - [↗Git 📂 DRV8704](https://github.com/uutzinger/Arduino_DRV8704), DC Controller
